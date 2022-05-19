@@ -1,2 +1,2 @@
 # Merge-conflict-practice
-'\m/' OOGA BOOGA!
+'\m/' Boogily Googily
